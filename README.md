@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/divsecur1ty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="divsecur1ty" height="30" width="40" /></a>
-<a href="https://medium.com/@sidblog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@sidblog" height="30" width="40" /></a>
+<a href="https://twitter.com/divsecur1ty" target="blank"></a>
+<a href="https://medium.com/@sidblog" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
